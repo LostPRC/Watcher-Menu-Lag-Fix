@@ -1,0 +1,10 @@
+/home/prince/项目/RainWorld/WatcherMenuLagFix/dist/WatcherMenuLagFix/plugins/WatcherMenuLagFix.deps.json
+/home/prince/项目/RainWorld/WatcherMenuLagFix/dist/WatcherMenuLagFix/plugins/WatcherMenuLagFix.dll
+/home/prince/项目/RainWorld/WatcherMenuLagFix/dist/WatcherMenuLagFix/plugins/WatcherMenuLagFix.pdb
+/home/prince/项目/RainWorld/WatcherMenuLagFix/src/obj/Debug/WatcherMenuLagFix.csproj.AssemblyReference.cache
+/home/prince/项目/RainWorld/WatcherMenuLagFix/src/obj/Debug/WatcherMenuLagFix.GeneratedMSBuildEditorConfig.editorconfig
+/home/prince/项目/RainWorld/WatcherMenuLagFix/src/obj/Debug/WatcherMenuLagFix.AssemblyInfoInputs.cache
+/home/prince/项目/RainWorld/WatcherMenuLagFix/src/obj/Debug/WatcherMenuLagFix.AssemblyInfo.cs
+/home/prince/项目/RainWorld/WatcherMenuLagFix/src/obj/Debug/WatcherMenuLagFix.csproj.CoreCompileInputs.cache
+/home/prince/项目/RainWorld/WatcherMenuLagFix/src/obj/Debug/WatcherMenuLagFix.dll
+/home/prince/项目/RainWorld/WatcherMenuLagFix/src/obj/Debug/WatcherMenuLagFix.pdb

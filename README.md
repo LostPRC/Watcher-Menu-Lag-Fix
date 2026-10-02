@@ -1,4 +1,6 @@
-# Watcher Menu Lag Fix (雨世界 Watcher 主菜单卡顿修复模组)
+# Watcher Menu Lag Fix 
+
+(雨世界 Watcher 主菜单卡顿修复模组)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Game-Rain%20World%20v1.9%2B%20%7C%20v1.11.5%2B-blue?style=flat-square" alt="Game Version">
